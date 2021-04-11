@@ -1,0 +1,16 @@
+.action {
+    display: flex;
+    margin-top: 8px;
+}
+
+.comment {
+    margin-top: 8px;
+}
+
+.input {
+    width: 150px;
+}
+
+.button {
+    margin-left: 8px;
+}
